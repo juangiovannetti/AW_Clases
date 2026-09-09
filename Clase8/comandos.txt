@@ -11,6 +11,8 @@ node -v
 npm -v
 
 -instalar manejador de paquetes pnpm
+https://pnpm.io/es/
+https://www.npmjs.com/
 npm i -g pnpm
 
 -verificar instalacion
@@ -21,7 +23,7 @@ por proyecto:
 pn init
 
 -instalar mi paquete five-server
-pn add five.server
+pn add five-server
 
 -reinstalar paquetes si existe package.json
 pn install
