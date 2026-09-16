@@ -8,7 +8,7 @@ comandos primera vez (en su casa)
 node -v
 
 -verificar instalacion de npm: 
-npm -v
+
 
 -instalar manejador de paquetes pnpm
 https://pnpm.io/es/
