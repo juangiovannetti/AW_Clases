@@ -20,7 +20,7 @@ sintaxis
 
 /*SELECTOR UNIVERSAL*/
 * {
-  /* outline: 1px red solid;*/
+   /* outline: 1px red solid;*/
 }
 
 /* selectores de TIPO cuando usemos el selector de TIPO hace match con todos los que encuentra*/
