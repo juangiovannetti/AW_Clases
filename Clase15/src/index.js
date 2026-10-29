@@ -13,6 +13,7 @@
 
 //Operadores aritmeticos --> + - * / %
 
+
 const edad = 18
 const mayoriaEdad = 18
 
@@ -34,3 +35,6 @@ if(edad > mayoriaEdad){
 }else {
     console.log("Es menor de edad")
 }
+
+//filter nuevo arreglo
+const numerosFiltados  = numeros.filter((numero))
